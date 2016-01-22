@@ -41,7 +41,7 @@ e.g.
 5. Run the tests, ensuring they all pass 
 6. Submit a Pull Request using Github License and Authors
 
-Authors: Talentica/shantanupanda
+### Authors: Talentica/shantanupanda
 
 
 
